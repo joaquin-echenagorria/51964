@@ -1,0 +1,8 @@
+funcion saludar() {
+  escribir("bienvenido a mi funcion");;;
+  escribir("ingresa tu nombre");
+  leer(nombre);
+  escribir("Tu nombre es: " + nombre);
+  edad = 10;
+  escribir("Tu edad es: " + edad);
+}
