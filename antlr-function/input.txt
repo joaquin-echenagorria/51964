@@ -2,6 +2,6 @@ funcion saludar() {
   escribir("Hola");
   leer(nombre);
   escribir("Tu nombre es: " + nombre);
-  edad = 10;
+  leer (edad);
   escribir("Tu edad es: " + edad);
 }

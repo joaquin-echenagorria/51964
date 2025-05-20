@@ -1,4 +1,4 @@
-// Generated from c:/Users/Usuario/Downloads/analizadorJoco/joko/antlr-function/Function.g4 by ANTLR 4.13.2
+// Generated from d:/51964/antlr-function/Function.g4 by ANTLR 4.13.2
 // jshint ignore: start
 import antlr4 from 'antlr4';
 import FunctionListener from './FunctionListener.js';
